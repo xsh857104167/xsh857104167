@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### - 🍕 I'm BufferPools, of course, Buffer is me as well.
+### - 🍕 I'm *BufferPools*, of course, *Buffer* is me as well.
 
 ### - 🏫 I'm currently a graduate stu studying security.
 
